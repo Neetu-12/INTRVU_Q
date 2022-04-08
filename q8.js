@@ -1,0 +1,1 @@
+const printMe=str=>console.log(str);
